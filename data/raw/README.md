@@ -1,0 +1,1 @@
+Place authentic monthly tea production CSV here with columns `date,production_mn_kg`. Each row is one month; date can be YYYY-MM-DD. No sample synthetic data is supplied.
